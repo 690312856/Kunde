@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tip.wav</file>
+        <file>厚度修正.txt</file>
+        <file>温度修正表-n.txt</file>
+        <file>温度修正表-p.txt</file>
+        <file>位置修正.txt</file>
+    </qresource>
+</RCC>
